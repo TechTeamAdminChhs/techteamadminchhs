@@ -1,0 +1,21 @@
+<div class="form">
+2
+      
+3
+      <ul class="tab-group">
+4
+        <li class="tab active"><a href="#signup">Sign Up</a></li>
+5
+        <li class="tab"><a href="#login">Log In</a></li>
+6
+      </ul>
+7
+      
+8
+      <div class="tab-content">
+9
+        <div id="signup">   
+10
+          <h1>Sign Up for Free</h1>
+11
+          
